@@ -349,4 +349,4 @@ Proyecto de portafolio de automatización con IA. *[Tu nombre · enlace a tu per
 
 ## 📄 Licencia
 
-MIT — ver [`LICENSE`](LICENSE). *(Reemplaza `[Tu nombre]` en ese archivo.)*
+MIT — ver [`LICENSE`](LICENSE).
